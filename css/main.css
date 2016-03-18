@@ -35,6 +35,7 @@ body {
 		cursor: pointer;
 		border-radius: 4px;
 		background: -webkit-linear-gradient(#83BD0D,#449400);
+		background: -webkit-linear-gradient(#83BD0D, #449400);
 		background: linear-gradient(#83BD0D,#449400);
 	}
 	.cta h4 {
